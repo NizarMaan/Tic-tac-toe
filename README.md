@@ -1,4 +1,4 @@
-# Tic-tac-toe
+# Tic-tac-toe for Linux
 University of Calgary
 	CPSC 599.82 Retro Games Fall 2016
 	Assignment 2
